@@ -6,7 +6,7 @@ require("@nomiclabs/hardhat-etherscan");
     acalaMandala: {
       url: 'https://tc7-eth.aca-dev.network',
       chainId: 595,
-      accounts: ["0xa178130ba7d672cd43056fa3a1188ca2f88a5689741c2901757ed7c98fa49f25"]
+      accounts: ["private key"]
     }
   },
   etherscan: {
